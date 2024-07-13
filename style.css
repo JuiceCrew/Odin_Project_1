@@ -60,10 +60,11 @@ h1 {
 }
 
 .bannerimage {
-    background-color: #E5E7EB;
+    background-color: #4e4c4c;
     height: 25vh;
     flex-basis: 40vh;
     font-size: 18px;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
+    line-height: 25vh;
+    color: #f9FAF8;
 }
